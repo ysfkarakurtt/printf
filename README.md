@@ -1,2 +1,3 @@
 # printf
-42Cursus printf project
+This project is a rewrite of the printf function in C language.  
+
